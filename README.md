@@ -5,7 +5,7 @@ A simple and clean **Weather Application** built using **HTML, CSS, and JavaScri
 
 ## 🔗 Live Demo
 
-👉 [https://YOUR-USERNAME.github.io/weather-app/](https://asifa-elluri.github.io/weather-app/)
+👉 [https://asifa-elluri.github.io/weather-app/](https://asifa-elluri.github.io/weather-app/)
 
 
 ## ✨ Features
